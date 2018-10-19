@@ -1,3 +1,0 @@
-/home/sadegh/Desktop/Node Clustering/MHELOH/build/CMakeFiles/rebuild_cache.dir
-/home/sadegh/Desktop/Node Clustering/MHELOH/build/CMakeFiles/Cluster.dir
-/home/sadegh/Desktop/Node Clustering/MHELOH/build/CMakeFiles/edit_cache.dir
