@@ -10,4 +10,4 @@ To build the project:
   - run make
   
  To run the project:
-  - run ./cluster < <inputFile>
+  - run ./cluster < InputFile
